@@ -22,7 +22,7 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer from Sudan.
 - :seedling: Exploring Technical Content Writing.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-alhadi/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-alhadi/)
 <div>
     <h2 align="center">Languages and Tools</h2>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
